@@ -1,0 +1,6 @@
+MÉTRICAS DEL MODELO DE REGRESIÓN
+================================
+
+MAE: 0.2455
+RMSE: 0.6366
+R2: 0.1877

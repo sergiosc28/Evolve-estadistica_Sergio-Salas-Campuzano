@@ -1,1 +1,0 @@
-# Evolve-estadistica_Sergio-Salas-Campuzano

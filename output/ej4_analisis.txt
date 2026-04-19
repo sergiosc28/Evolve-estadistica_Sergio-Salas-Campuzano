@@ -1,0 +1,12 @@
+ANÁLISIS DEL RESIDUO
+====================
+
+Media: 0.1271
+Desviación estándar: 3.2220
+Asimetría: -0.0509
+Curtosis: -0.0610
+
+Jarque_Bera_stat: 1.1013
+Jarque_Bera_pvalor: 0.5766
+Test ADF:
+p-valor: 0.0000
